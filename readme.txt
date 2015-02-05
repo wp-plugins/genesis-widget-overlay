@@ -46,7 +46,7 @@ Looking for additional features? Just let me know.
 
 == Screenshots ==
 
-s1. screenshot1.jpg
+1. screenshot1.jpg
 
 == Changelog ==
 
