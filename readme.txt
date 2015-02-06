@@ -7,13 +7,13 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Genesis Overlay Widget plugins creates a full overlay widget area. 
+The Genesis Overlay Widget plugins creates a full screen overlay widget area. 
 
 == Description ==
 
 **Please Note:** This plugin only works with the <a href="http://www.studiopress.com/" title="Genesis Framework" rel="nofollow">Genesis Framework</a>
 
-This plugin allows you to create a fully overlay widget-area. You can use this plugin for forms, navigation or a featured post or page. Set backgroundcolor, button position and choose one of the seven effects you like best.
+This plugin allows you to create a full screen overlay widget-area. You can use this plugin for forms, navigation or a featured post or page. Set backgroundcolor, button position and choose one of the seven effects you like best.
 
 The plugin is based on the <a href="http://tympanus.net/Development/FullscreenOverlayStyles/">Fullscreen Overlay Styles & Effects</a> of Tympanus. Be sure to check out his page for more great stuff and examples
 
