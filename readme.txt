@@ -15,7 +15,7 @@ The Genesis Overlay Widget plugins creates a full screen overlay widget area.
 
 This plugin allows you to create a full screen overlay widget-area. You can use this plugin for forms, navigation or a featured post or page. Set backgroundcolor, button position and choose one of the seven effects you like best.
 
-The plugin is based on the <a href="http://tympanus.net/Development/FullscreenOverlayStyles/">Fullscreen Overlay Styles & Effects</a> of Tympanus. Be sure to check out his page for more great stuff and examples
+The plugin is based on the <a href="http://tympanus.net/Development/FullscreenOverlayStyles/">Fullscreen Overlay Styles & Effects</a> code by Codrops. Be sure to check out their website for more great stuff and examples
 
 More information, an example, and the manual can be found on <a href="http://www.wpstud.io/plugins/">WPStudio</a>.
 

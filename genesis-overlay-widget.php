@@ -2,7 +2,7 @@
 /*
  Plugin Name: Genesis Widget overlay
  Plugin URI: http://wpstud.io
- Description: Create a full overlay widget area
+ Description: This plugin allows you to create a full screen overlay widget-area
  Version: 1.0
  Author: Frank Schrijvers
  Author URI: http://www.frankschrijvers.nl
