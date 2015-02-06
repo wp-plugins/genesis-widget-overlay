@@ -26,7 +26,7 @@ More information, an example, and the manual can be found on <a href="http://www
 * Set button text
 * Set button color
 * Choose position button
-* 7 Effect, Scale, Corner, Slide Down, Door, Content Push, Content Scale and Simple Genie
+* 7 different effects; Scale, Corner, Slide Down, Door, Content Push, Content Scale and Simple Genie
 * Set Background color
 * Set text color
 * Genesis 2.0 
